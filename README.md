@@ -26,8 +26,6 @@ Ein KI-gestütztes Full-Stack System zur automatischen Erstellung von Podcasts a
 ## 🧠 Architektur
 LLM → Skript → TTS → Audio → Datenbank → Web UI
 
-## 👥 Teamprojekt (TH Köln)
-Dieses Projekt wird im Rahmen eines Systemprojekts in einem  entwickelt.
 
 ## 📌 Status
 🟡 Work in Progress
